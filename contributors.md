@@ -1,5 +1,5 @@
 ### Tsec Contribution 
 Akanksha Bhasin<br>
-Divyansh Chaurasia
- Harsh Kapadia <br/>
+Divyansh Chaurasia<br/>
+Dinsha Vaswani <br/>
 
